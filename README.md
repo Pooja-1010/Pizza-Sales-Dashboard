@@ -1,6 +1,10 @@
+#Pizza Sales Dashboard
 
-#📊 Pizza Sales Dashboard
+
+📊 Pizza Sales Dashboard
+
 1️⃣ Project Title / Headline
+
 🍕 Pizza Sales Performance Dashboard
 An interactive Power BI dashboard designed to analyze pizza sales data, track key business KPIs, and identify sales trends across categories, sizes, and months.
 
@@ -56,4 +60,4 @@ Improved monthly revenue tracking and decision-making
 
 6️⃣ Project Link
 
-📊 Pizza Sales Dashboard Preview :
+📊 Pizza Sales Dashboard Preview : https://github.com/Pooja-1010/Pizza-Sales-Dashboard/blob/main/pizaa%20sales%20dashboard.png

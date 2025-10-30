@@ -1,7 +1,5 @@
-#Pizza Sales Dashboard
-
-
 📊 Pizza Sales Dashboard
+
 
 1️⃣ Project Title / Headline
 
